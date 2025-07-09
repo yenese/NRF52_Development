@@ -1,0 +1,41 @@
+# Derleme çıktıları
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+
+# Build klasörleri
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# IDE klasörleri ve ayar dosyaları
+.vscode/
+.idea/
+*.code-workspace
+
+# Geçici dosyalar
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# CMake çıktıları
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Diğer
+*.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+config BOARD_TST
+	select SOC_NRF52820_QDAA
